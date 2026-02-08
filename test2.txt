@@ -1,0 +1,1 @@
+print("India") and this is the code for python print statement.git
